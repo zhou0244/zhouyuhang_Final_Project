@@ -1,0 +1,5 @@
+cd
+nano .zshrc
+alias FinalProject="cd ~/Documents/code/zhouyuhang_Final_Project"
+source .zshrc
+FinalProject

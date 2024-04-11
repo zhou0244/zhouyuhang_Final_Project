@@ -1,0 +1,5 @@
+cd Documents
+cd code
+mkdir zhouyuhang_Final_Project
+cd zhouyuhang_Final_Project
+touch T1Q1.txt
